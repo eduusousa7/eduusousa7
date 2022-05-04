@@ -19,4 +19,4 @@
    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Sou apaixonado por tecnologia e busco a cada dia me aperfeiçoar mais para me tornar um bom profissional.
+### Sou apaixonado por tecnologiae busco a cada dia me aperfeiçoar mais para me tornar um bom profissional.
